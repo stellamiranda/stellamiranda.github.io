@@ -1,6 +1,6 @@
 @charset "UFT-8";
 
-@import url(http://fonts.googleapis.com/css?family=Ubuntu:400,300);
+@import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,300italic);
 
 /* Reset
 ============================================================ */
@@ -10,7 +10,7 @@ html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address
 ============================================================ */
 
 body {
-	font-family: 'Ubuntu', 'Open Sans', 'sans-serif';
+	font-family: 'Ubuntu';
 	font-weight: lighter;
 }
 
@@ -203,7 +203,7 @@ footer ul li a:hover.github {
 
 @media (max-width: 768px){
 
-	header img.background{height: 250px;}
+	header img.background{height: 150px;}
 
 
 header div.wrap{transform: none;}
