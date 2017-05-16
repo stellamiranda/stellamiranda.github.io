@@ -34,7 +34,12 @@ header div.wrap{
     -ms-transform: translate(0%, -160%);
     transform: translate(0%, -160%);
 }
-
+header h1{
+		color: #FFF;
+		font-size: 30px;
+    height: 8%;
+    margin-right: 30px;
+}
 header img.bio_pic{
 
     height: 30%;
