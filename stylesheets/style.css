@@ -44,10 +44,10 @@ header img.bio_pic{
 header p{
     color: #fff;
     letter-spacing: 0.05em;
-    font-size: 14px;
+    font-size: 18px;
     font-weight: lighter;
     line-height: 25px;
-    margin-bottom: 30px;
+    margin-bottom: 50px;
 }
 
 header div.right{
