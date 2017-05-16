@@ -52,12 +52,12 @@ header p{
     font-size: 18px;
     font-weight: lighter;
     line-height: 25px;
-    margin-bottom: 50px;
+    margin-bottom: 20px;
 }
 
 header div.right{
 	position: absolute;
-    width: 60%;
+    width: 80%;
     display: inline-block;	
     margin: 30px 30px;
 }
