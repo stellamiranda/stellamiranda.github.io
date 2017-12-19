@@ -21,6 +21,10 @@ body {
 
 a, a:hover{cursor: pointer;}
 
+header{
+	height: 125%;
+}
+
 header img.background{
 	background-size: cover;
     margin: 0px;
@@ -28,11 +32,11 @@ header img.background{
   }
 
 header div.wrap{
-	-webkit-transform: translate(0%, -105%);
-    -moz-transform: translate(0%, -105%);
-    -o-transform: translate(0%, -105%);
-    -ms-transform: translate(0%, -105%);
-	transform: translate(0%, -105%);
+	-webkit-transform: translate(0%, -107%);
+    -moz-transform: translate(0%, -107%);
+    -o-transform: translate(0%, -107%);
+    -ms-transform: translate(0%, -107%);
+	transform: translate(0%, -107%);
 	width: 1200px;
 	text-shadow: 1px 1px #000;
 }
@@ -60,7 +64,7 @@ header p{
 header div.right{
     width: 50%;
     display: inline-block;	
-    margin: 30px 10px;
+    margin: 35px 30px;
 }
 
 section h2{
