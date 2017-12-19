@@ -28,11 +28,13 @@ header img.background{
   }
 
 header div.wrap{
-	-webkit-transform: translate(0%, -160%);
-    -moz-transform: translate(0%, -160%);
-    -o-transform: translate(0%, -160%);
-    -ms-transform: translate(0%, -160%);
-    transform: translate(0%, -160%);
+	-webkit-transform: translate(0%, -105%);
+    -moz-transform: translate(0%, -105%);
+    -o-transform: translate(0%, -105%);
+    -ms-transform: translate(0%, -105%);
+	transform: translate(0%, -105%);
+	width: 1200px;
+	text-shadow: 1px 1px #000;
 }
 header h1{
 		color: #FFF;
@@ -52,14 +54,13 @@ header p{
     font-size: 18px;
     font-weight: lighter;
     line-height: 25px;
-    margin-bottom: 20px;
+	margin-bottom: 20px;
 }
 
 header div.right{
-	position: absolute;
-    width: 80%;
+    width: 50%;
     display: inline-block;	
-    margin: 30px 30px;
+    margin: 30px 10px;
 }
 
 section h2{
