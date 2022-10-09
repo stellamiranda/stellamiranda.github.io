@@ -1,0 +1,44 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: Shopify
+    i18n: company_a
+  desc:
+    detail: Work at Shopify on Billing Platform team
+    i18n: company_a_desc
+  date:
+    detail: Aug. 2021
+    i18n: company_a_date
+  job:
+    detail: Senior Software Engineer
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: true
+
+- name:
+    detail: Unbounce
+    i18n: company_b
+  desc:
+    detail: I worked at Unbounce leading the technology of the Customer Portal team
+    i18n: company_b_desc
+  date:
+    detail: Aug. 2021
+    i18n: company_b_date
+  job:
+    detail: Technical Lead
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: Hearst
+    i18n: company_c
+  desc:
+    detail: I worked at Hearst in the Hearst Digital Studios Division
+    i18n: company_c_desc
+  date:
+    detail: Nov. 2019
+    i18n: company_c_date
+  job:
+    detail: Software Architect
+    i18n: company_c_job
+  icon: fa-plus-square

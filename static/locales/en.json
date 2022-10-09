@@ -1,0 +1,53 @@
+{
+  "website":{
+    "title": "Stella's personal website"
+  },
+  "nav":{
+    "home": "Home",
+    "about_me": "About",
+    "skills": "Skills",
+    "projects": "Projects",
+    "career": "Career",
+    "blog": "Blog",
+    "link": "Link"
+  },
+  "about_me":{
+    "about_me": "About Me",
+    "des": "Software Engineer with +10 years of industry experience and over 5 years leading tech development teams. I am passionate about coding and also about coaching and mentoring people who are learning to code. Life is a continuous learning process. I can make lots of friends when I coding and travel. Latina based in Canada."
+  },
+  "skills":{
+    "my_skills": "My Skills"
+  },
+  "projects":{
+    "my_projects": "My Projects",
+    "jalpc": "This project is my project. I use javescript to get repo's information all my repos have only one request.",
+    "cpython": "This project is other's project. I use another request to get repo's information.",
+    "familycode": "This is another project."
+  },
+  "career":{
+    "my_career": "My Career",
+    "company_a": "Shopify",
+    "company_a_desc": "I'm currently part of the Billing Platform team atShopify.",
+    "company_a_date": "Aug 2021 - Presente",
+    "company_a_job": "Senior Software Engineer",
+    "company_b": "Unbounce",
+    "company_b_desc": "Lead the technology of the Customer Portal team",
+    "company_b_date": "Dec 2018 - Aug 2021",
+    "company_b_job": "Teach Lead",
+    "company_c": "Hearst",
+    "company_c_desc": "I was part of the Hearst Digital Studios Division",
+    "company_c_date": "March 2014 - Nov 2018",
+    "company_c_job": "Software Architect",
+    "my_cv_1": "Download my full CV: ",
+    "my_cv_2": "here"
+  },
+
+  "blog":{
+    "my_blog": "My Blog"
+  },
+  "link":{
+    "link": "Link",
+    "view": "views"
+  }
+
+}

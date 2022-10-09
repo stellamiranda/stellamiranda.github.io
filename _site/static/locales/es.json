@@ -1,0 +1,51 @@
+{
+  "website":{
+    "title": "Stella's personal website"
+  },
+  "nav":{
+    "home": "Inicio",
+    "about_me": "Sobre mí",
+    "skills": "Habilidades",
+    "projects": "Proyectos",
+    "career": "Carrera",
+    "blog": "Blog",
+    "link": "Enlaces"
+  },
+  "about_me":{
+    "about_me": "Acerca de mi",
+    "des": "Ingeniera de Software con más de 10 años de experiencia en la industria y 5 años liderando equipos de desarrollo de software. Me apasiona el desarrollo de software y también la enseñanza y mentoría de personas que están aprendiendo a programar. La vida es un proceso de aprendizaje continuo. Puedo hacer muchos amigos cuando estoy programando y viajando. Latina basada en Canadá."
+  },
+  "skills":{
+    "my_skills": "Mis habilidades"
+  },
+  "projects":{
+    "my_projects": "My Projects",
+    "jalpc": "This project is my project. I use javescript to get repo's information all my repos have only one request.",
+    "cpython": "This project is other's project. I use another request to get repo's information.",
+    "familycode": "This is another project."
+  },
+  "career":{
+    "my_career": "Mi carrera",
+    "company_a": "Shopify",
+    "company_a_desc": "Actualmente hago parte del equipo de desarrollo de Billing",
+    "company_a_date": "Agosto 2021 - Presente",
+    "company_a_job": "Señora Ingeniera de Software",
+    "company_b": "Unbounce",
+    "company_b_desc": "Lideraba el equipo de desarrollo encargado del portal de usuarios de Unbounce.",
+    "company_b_date": "Diciembre 2018 - Agosto 2021",
+    "company_b_job": "Líder técnica",
+    "company_c": "Hearst",
+    "company_c_desc": "Hice parte del equipo de desarrollo de Hearst Digital Studios.",
+    "company_c_date": "Marzo 2014 - Noviembre 2018",
+    "company_c_job": "Arquitecta de software",
+    "my_cv_1": "Puedes ver mi CV completa descargando el archivo PDF: ",
+    "my_cv_2": "aquí"
+  },
+  "blog":{
+    "my_blog": "Mi Blog"
+  },
+  "link":{
+    "link": "Enlaces",
+    "view": "Vistas"
+  }
+}
