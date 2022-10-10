@@ -27,6 +27,6 @@
 
 - id: links
   i18n: nav.link
-  name: Press
+  name: Appearances
   tpl: links.html
   css: contact

@@ -13,6 +13,7 @@
     detail: Senior Software Engineer
     i18n: company_a_job
   icon: fa-plus-square
+  link: https://www.shopify.com/
   present: true
 
 - name:
@@ -28,6 +29,7 @@
     detail: Technical Lead
     i18n: company_b_job
   icon: fa-plus-square
+  link: https://www.unbounce.com/
 
 - name:
     detail: Hearst
@@ -42,3 +44,4 @@
     detail: Software Architect
     i18n: company_c_job
   icon: fa-plus-square
+  link: https://www.hearst.com/

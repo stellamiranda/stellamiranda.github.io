@@ -9,7 +9,7 @@
     "projects": "Projects",
     "career": "Career",
     "blog": "Blog",
-    "link": "Link"
+    "link": "Appearances"
   },
   "about_me":{
     "about_me": "About Me",
@@ -45,7 +45,7 @@
   "blog":{
     "my_blog": "My Blog"
   },
-  "link":{
+  "links":{
     "link": "Press",
     "view": "views"
   }
